@@ -20,7 +20,7 @@ Example Traffic Incidents Map:
 
 ## Second Phase
 
-See the Interactive_Grid_Map_and_Further_Analysis.ipynb file for results (https://nbviewer.org/github/hasnil/traffic-analysis/blob/main/Second%20Phase/Interactive_Grid_Map_and_Data_Analysis.ipynb). An interactive grid map of the City of Calgary is created. Each grid area can be clicked to display pertinent statistics. A speed limit map is presented. Hovering over (major) streets will display information. Traffic volume heatmaps and data analysis for the collected traffic information are also included.
+See the Interactive_Grid_Map_and_Data_Analysis.ipynb file for results (https://nbviewer.org/github/hasnil/traffic-analysis/blob/main/Second%20Phase/Interactive_Grid_Map_and_Data_Analysis.ipynb). An interactive grid map of the City of Calgary is created. Each grid area can be clicked to display pertinent statistics. A speed limit map is presented. Hovering over (major) streets will display information. Traffic volume heatmaps and data analysis for the collected traffic information are also included.
 
 ![Grid Map](Second%20Phase/demonstration_4.png)
 
