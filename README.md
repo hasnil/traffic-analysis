@@ -8,19 +8,19 @@ Running main_traffic_analysis_GUI.py will present an interface that allows a use
 
 ## Demonstration
 
-![GUI](https://github.com/hasnil/traffic-analysis-project/blob/main/First%20Phase/samples/demonstration_1.gif)
+![GUI](First%20Phase/samples/demonstration_1.gif)
 
 Example Traffic Volume Map:
 
-![Traffic Volume Map](https://github.com/hasnil/traffic-analysis-project/blob/main/First%20Phase/samples/demonstration_3.gif)
+![Traffic Volume Map](First%20Phase/samples/demonstration_3.gif)
 
 Example Traffic Incidents Map:
 
-![Traffic Incidents Map](https://github.com/hasnil/traffic-analysis-project/blob/main/First%20Phase/samples/demonstration_2.gif)
+![Traffic Incidents Map](First%20Phase/samples/demonstration_2.gif)
 
 ## Second Phase
 
-See the Interactive_Grid_Map_and_Further_Analysis.ipynb file for results (https://nbviewer.org/github/hasnil/traffic-analysis-project/blob/main/Second%20Phase/Interactive_Grid_Map_and_Further_Analysis.ipynb). An interactive grid map of the City of Calgary is created. Each grid area can be clicked to display pertinent statistics. A speed limit map is presented. Hovering over (major) streets will display information. Traffic volume heatmaps and data analysis for the collected traffic information are also included.
+See the Interactive_Grid_Map_and_Further_Analysis.ipynb file for results (https://nbviewer.org/github/hasnil/traffic-analysis/blob/main/Second%20Phase/Interactive_Grid_Map_and_Data_Analysis.ipynb). An interactive grid map of the City of Calgary is created. Each grid area can be clicked to display pertinent statistics. A speed limit map is presented. Hovering over (major) streets will display information. Traffic volume heatmaps and data analysis for the collected traffic information are also included.
 
 ![Grid Map](Second%20Phase/demonstration_4.png)
 
